@@ -1,0 +1,6 @@
+name = Extend Follow
+description = Extends the follow module by linking to custom social media websites of user
+s choosing.
+package = Epicodus Examples
+core = 7.x
+files[] = z.module
